@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :MIRUDHULA D
+Roll no : 212221230060
+Date of experiment : 12/09/2022
 
 
 
